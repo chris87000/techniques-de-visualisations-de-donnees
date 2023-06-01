@@ -1,10 +1,10 @@
 # Exercice sur les visualisations de données dans le cadre du DUDA
 
-## pour installer les pré-requis
+## Pour installer les pré-requis
 
 pip install -r requirements.txt
 
-## lancer le fichier  dans jupyter 
+## Lancer le fichier  dans jupyter 
 jupyter-lab
 
 ## Attention
