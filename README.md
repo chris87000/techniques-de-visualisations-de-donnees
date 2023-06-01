@@ -11,4 +11,8 @@ jupyter-lab
 Le fichier nécessaire (PhD_v3.csv) à l'éxécution du notebook n'est pas public.
 Cependant, vous pouvez voir les résultats dans les différentes graphes.
 
+## Exemple de graphe plotly dynamique :
+screenshot : repartition_theses_fct_disciplines_langues_annees.png
+
 ## Have a good day :-) !!!!
+
