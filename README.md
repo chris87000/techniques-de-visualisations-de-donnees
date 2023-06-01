@@ -11,4 +11,4 @@ jupyter-lab
 Le fichier nécessaire (PhD_v3.csv) à l'éxécution du notebook n'est pas public.
 Cependant, vous pouvez voir les résultats dans les différentes graphes.
 
-## Have a goog day :-) !!!!
+## Have a good day :-) !!!!
