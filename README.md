@@ -12,7 +12,7 @@ Le fichier nécessaire (PhD_v3.csv) à l'éxécution du notebook n'est pas publi
 Cependant, vous pouvez voir les résultats dans les différentes graphes.
 
 ## Exemple de graphe plotly dynamique :
-screenshot : Thèses en fonction des disciplines et des langues au cours de années
+screenshot : Thèses en fonction des disciplines et des langues au cours des années
 
 ![alt schema plotly dynamique](/img/repartition_theses_fct_disciplines_langues_annees.png "Theses en fonction des disciplines et des langues au cours de années")
 
