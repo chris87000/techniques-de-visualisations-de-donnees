@@ -14,5 +14,7 @@ Cependant, vous pouvez voir les résultats dans les différentes graphes.
 ## Exemple de graphe plotly dynamique :
 screenshot : repartition_theses_fct_disciplines_langues_annees.png
 
+![alt schema plotly dynamique](/img/repartition_theses_fct_disciplines_langues_annees.png "Theses en fonction des disciplines et des langues au cours de années")
+
 ## Have a good day :-) !!!!
 
